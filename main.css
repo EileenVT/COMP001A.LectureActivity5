@@ -58,7 +58,7 @@ div ul {
 }
 
 /* General styling using a class */
-.feature-card h3 {
+.feature-card {
     border: 2px solid #7f8c8d; /* Grayish-blue */
     padding: 20px; /* Adding some space inside the card */
     margin: 20px; /* Adding some space outside the card */
@@ -76,4 +76,11 @@ div ul {
 .feature-card p {
     margin-bottom: 10px; /* Adding some space below the paragraph */
     color: #7f8c8d; /* Grayish-blue text color */
+}
+
+/* Special styling using an ID */
+#special-feature {
+    background-color: #fde3a7; /* Light gold background color */
+    border-color: #f39c12; /* Gold border color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding a shadow */
 }
