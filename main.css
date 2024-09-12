@@ -71,3 +71,9 @@ div ul {
     margin-bottom: 10px; /* Adding some space below the heading */
     color: #2c3e50; /* Deep blue text color */
 }
+
+/* Styling p within a paragraph */
+.feature-card p {
+    margin-bottom: 10px; /* Adding some space below the paragraph */
+    color: #7f8c8d; /* Grayish-blue text color */
+}
