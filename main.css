@@ -31,3 +31,8 @@ p {
     color: #7f8c8d; /* Grayish blue */
     margin-bottom: 12px; /* Adding some space below the paragraph */
 }
+/* Styling the link within the paragraph */
+p a {
+   color: #f39c12; /* Gold accent */
+   text-decoration: none; /* Removing the underline */ 
+}
