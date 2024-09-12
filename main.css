@@ -51,3 +51,8 @@ ul li {
     margin-bottom: 5px; /* Adding some space below each list item */
     color: #7f8c8d; /* Grayish-blue text color */
 }
+
+/* Styling the unordered list within a div */
+div ul {
+    list-style-type: square; /* Adding the bullet points back */
+}
